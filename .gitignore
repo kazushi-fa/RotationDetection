@@ -150,3 +150,7 @@ tools/*/test_masra_td500/*
 tools/*/test_ohd_sjtu/*
 output/summary/*
 dataloader/tfrecord/*
+dataloader/dataset/DOTA/DOTA1.0/*
+dataloader/dataset/DOTA/test/*
+dataloader/dataset/DOTA/train/*
+dataloader/dataset/DOTA/val/*
